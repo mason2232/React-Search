@@ -1,0 +1,20 @@
+{
+  "name": "react-search",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mason2232/React-Search.git"
+  },
+  "author": "billy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mason2232/React-Search/issues"
+  },
+  "homepage": "https://github.com/mason2232/React-Search#readme"
+}
